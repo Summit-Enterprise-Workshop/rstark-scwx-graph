@@ -35,7 +35,7 @@ limits:
 ## Enter Workshop Module Configs Below
 
 preview_persisted_queries:
-  enabled: true
+  enabled: false
   safelist:
     enabled: true
     require_id: false
